@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+}
+.myNav{
+    height:110px;
+    width:100%;
+}
+.logo img{
+   height:100px;
+   width:80%;
+}
+
+.list{
+    list-style: none;
+    flex:1;
+    margin-left:100px !important;
+}
+.list li{
+    float:left;
+    width:60px;
+    margin-left:30px !important;
+    font-size:20px;
+    padding-top:30px;
+}
+
+@media screen and (max-width: 600px) {
+    .myNav{
+        height:auto;
+        border-bottom: 5px solid black;
+    }
+    .list{
+        list-style: none;
+        text-align: center;
+    }
+    .list li{
+        float:vertical;
+    }
+  }

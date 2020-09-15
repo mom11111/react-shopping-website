@@ -1,0 +1,118 @@
+.home{
+    height:100%;
+    width:100%;
+}
+.header{
+    margin-top:40px;
+}
+
+.leftHeader img{
+    width:100%;
+    height:400px;
+}
+.rightHeader{
+    background-image: url('../images/p2.jpg');
+    background-size: 100% 100%;
+    text-align: center;
+    box-sizing: border-box;
+}
+.rightHeader h3{
+    background-color: rgba(73, 72, 72, 0.5);
+    padding-top:50px;
+    color:white;
+}
+
+.thirdSection{
+    margin-top:60px;
+    height:auto;
+    background-color:#06214d;
+    text-align:center;
+}
+.section3{
+  width:90%;
+  height:100px;
+  margin:2rem auto;
+  background-color: #123c80;
+  color:white;
+  z-index:10;
+}
+.section3 h3{
+   padding-top:10px;
+}
+.boldtext{
+margin-top:90px;
+text-align: center;
+}
+.boldtext h1{
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+}
+.boldtext img{
+    height:60px;
+    width:20%;
+    margin:0.5rem auto;
+}
+
+.products{
+    margin-top:40px;
+}
+.prod{
+    margin-top:10px;
+}
+.vegies{
+    margin-top:40px;
+    background-color: #faf7f0;
+}
+.veg{
+    margin-top:20px;
+}
+
+.trenProd{
+ margin-top:40px;
+ background-color: midnightblue;
+}
+.discription{
+  margin:2rem auto;
+  color:white;
+}
+.button{
+    margin-top:20px;
+}
+.reg{
+    background-color:#fae3f0;
+    text-align: center;
+    color:black;
+    height:auto;
+}
+.reg h1{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.review{
+    margin-top:50px;
+    background-color: silver;
+}
+.reviewPart{
+    text-align:justify;
+    margin:2rem auto;
+    background-color: white;
+    border-radius:10px;
+    z-index:10;
+}
+.reviewPart h5{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+.offers{
+  background-image: url("../images/prod9.jpg");
+  background-size: 100% 100%;
+  color: white;
+  text-align:center;
+  border-radius:10px;
+  box-sizing: border-box;
+}
+.offers h1{
+    z-index:10;
+    padding-top:20px;
+    background-color: rgba(100,100,100,0.5);
+}
